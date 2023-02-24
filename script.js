@@ -42,3 +42,7 @@ document.getElementById('case-minus').addEventListener('click', function(){
 });
 
 
+
+document.getElementById('check-out').addEventListener('click', function(){
+    alert("Purchase Successful..!\nThank You for shopping from us.");
+})
